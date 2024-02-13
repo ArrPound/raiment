@@ -270,7 +270,7 @@ color: var(--main-color);
     grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
     align-items: center;
     gap: 1.5rem;
-    background-color: var(--bg-color);
+    background-color: #fff;
 }
 .home-text span{
     font-weight: 600;
