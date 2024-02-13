@@ -79,7 +79,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 100px;
+    padding: 20px 10px;
     transition: 0.6s linear;
 
 }
@@ -106,7 +106,7 @@ header.shadow {
 }
 .navbar{
     display: flex;
-    column-gap: 2.4rem;
+    column-gap: 2rem;
 }
 .navbar a{
     font-size: 1rem;
